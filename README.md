@@ -86,7 +86,7 @@ PHP Soap ve PHP intl sunucunuzda veya yerelinizde kullanılabiliyor olmalı. Kul
 
 Laravel projenizde terminali açarak şu komutu çalıştırın;
    ```
-    composer require theposeidonas/tcknverifier "^1.0"
+    composer require theposeidonas/tckn-verifier "^1.0"
    ```
 
 <p align="right">(<a href="#readme-top">başa dön</a>)</p>

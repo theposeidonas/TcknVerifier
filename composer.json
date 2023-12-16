@@ -1,0 +1,30 @@
+{
+    "name": "theposeidonas/tckn-verifier",
+    "version": "1.0.0",
+    "time": "2023-12-16",
+    "description": "Identity verification system for Turkish citizens",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Theposeidonas\\TcknVerifier\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Baran Arda",
+            "email": "baran9arda@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^8.17",
+        "ext-intl": "*"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "theposeidonas\\TcknVerifier\\Tests": "tests/"
+        }
+    },
+    "require": {
+        "ext-soap": "*"
+    }
+}

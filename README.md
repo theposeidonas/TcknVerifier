@@ -5,7 +5,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Laravel][Laravel.com]][Laravel-url]
+
 
 
 
@@ -17,7 +17,7 @@
   </a>
 
 <h3 align="center">TC Kimlik Numarası Doğrulama</h3>
-
+[![Laravel][Laravel.com]][Laravel-url]
   <p align="center">
     Laravel için yazılmış Türkiye Vatandaşları için TC kimlik numarası ve şahıs doğrulama paketi.
     <br />

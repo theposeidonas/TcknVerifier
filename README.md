@@ -17,8 +17,11 @@
   </a>
 
 <h3 align="center">TC Kimlik Numarası Doğrulama</h3>
+
 [![Laravel][Laravel.com]][Laravel-url]
-![Packagist Downloads (https://packagist.org/packages/theposeidonas/verimor-sms)] [downloads-url]
+![Packagist Downloads (custom server)][downloads-url]
+
+
   <p align="center">
     Laravel için yazılmış Türkiye Vatandaşları için TC kimlik numarası ve şahıs doğrulama paketi.
     <br />

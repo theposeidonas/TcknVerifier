@@ -5,7 +5,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Laravel][Laravel.com]][Laravel-url]
+
 
 
 
@@ -17,7 +17,8 @@
   </a>
 
 <h3 align="center">TC Kimlik Numarası Doğrulama</h3>
-
+[![Laravel][Laravel.com]][Laravel-url]
+![Packagist Downloads (https://packagist.org/packages/theposeidonas/verimor-sms)] [downloads-url]
   <p align="center">
     Laravel için yazılmış Türkiye Vatandaşları için TC kimlik numarası ve şahıs doğrulama paketi.
     <br />
@@ -146,3 +147,4 @@ Proje Linki: [https://github.com/theposeidonas/TcknVerifier](https://github.com/
 [linkedin-url]: https://www.linkedin.com/in/theposeidonas/
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
+[downloads-url]: https://img.shields.io/packagist/dt/theposeidonas/tckn-verifier?style=for-the-badge&color=007ec6

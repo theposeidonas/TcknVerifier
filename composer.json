@@ -1,6 +1,6 @@
 {
     "name": "theposeidonas/tckn-verifier",
-    "version": "v1.0.1",
+    "version": "1.0.1.0",
     "time": "2023-12-16",
     "description": "Identity verification system for Turkish citizens",
     "license": "MIT",
